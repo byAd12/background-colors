@@ -1,0 +1,184 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+  }
+  
+html, body{
+  font-family: sans-serif;
+  height: 100%;
+  background-color: #343a41;
+  user-select: none;
+}
+  
+::-webkit-scrollbar {
+  width: 7px;
+  opacity: 100%;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px black; 
+  transition: 0.5s;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #0073ff;
+  transition: 0.4s; 
+  border-radius: 100px;
+}
+
+.nav-bar{
+  background-color: #141d28;
+  height: 50px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 5%;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+.logo{
+  color: #e9e9e9;
+  font-size: 20px;
+}
+
+.logo span{
+  color: #0073ff;
+}
+
+.nav-bar ul{
+  list-style: none;
+  display: flex;
+}
+
+.nav-bar ul li{
+  padding: 10px 20px;
+}
+
+.nav-bar ul li a{
+  color: #e9e9e9;
+  text-decoration: none;
+  font-size: 15px;
+  transition: all 0.4s;
+}
+
+.nav-bar ul li a:hover{
+  color: #0073ff;
+  font-size: 16px;
+}
+
+.body-h2 h2{
+  text-align: center;
+  font-size: 40px;
+  border-radius: 20px;
+  background-color: rgb(40, 47, 40);
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+  position: -webkit-sticky;
+  position: sticky;
+}
+
+div.sticky-1 {
+  top: 0;
+  background-color: #141d28;
+  padding: 20px;
+  text-align: center;
+  border-radius: 20px;
+  margin: 20px;
+  color: gold;
+  font-size: 25px;
+}
+
+div.sticky-1 h3{
+  font-size: 15px;
+  color: white;
+}
+
+div.sticky-2 a, div.sticky-3 a, div.sticky-4 a, div.sticky-5 a, div.sticky-6 a, div.sticky-7 a, div.sticky-8 a, div.sticky-9 a, div.sticky-10 a, div.sticky-11 a, div.sticky-12 a {
+  display: flex;
+  top: 0;
+  background-color: rgb(46, 46, 42);
+  padding: 20px;
+  text-align: center;
+  border-radius: 20px;
+  margin-left: 300px;
+  margin-right: 300px;
+  text-align: center;
+  font-size: 25px;
+  transition: 1s;
+  color: white;
+}
+
+div.sticky-2 a:hover {
+  background-color: blue;
+  color: white;
+  transition: 1s;
+}
+
+div.sticky-3 a:hover {
+  background-color: green;
+  color: white;
+  transition: 1s;
+}
+
+div.sticky-4 a:hover {
+  background-color: yellow;
+  color: white;
+  transition: 1s;
+}
+
+div.sticky-5 a:hover {
+  background-color: brown;
+  color: white;
+  transition: 1s;
+}
+
+div.sticky-6 a:hover {
+  background-color: pink;
+  color: white;
+  transition: 1s;
+}
+
+div.sticky-7 a:hover {
+  background-color: gold;
+  color: white;
+  transition: 1s;
+}
+
+div.sticky-8 a:hover {
+  background-color: greenyellow;
+  color: white;
+  transition: 1s;
+}
+
+div.sticky-9 a:hover {
+  background-color: saddlebrown;
+  color: white;
+  transition: 1s;
+}
+
+div.sticky-10 a:hover {
+  background-color: grey;
+  color: white;
+  transition: 1s;
+}
+
+div.sticky-11 a:hover {
+  background-color: fuchsia;
+  color: white;
+  transition: 1s;
+}
+
+div.sticky-12 a:hover {
+  background-color: darkorange;
+  color: white;
+  transition: 1s;
+}
