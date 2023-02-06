@@ -1,0 +1,101 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.uno{
+    background-color: blue;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.uno{
+    background-color: green;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.dos{
+    background-color: yellow;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.tres{
+    background-color: brown;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.cuatro{
+    background-color: pink;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.cinco{
+    background-color: gold;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.seis{
+    background-color: greenyellow;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.siete{
+    background-color: saddlebrown;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.ocho{
+    background-color: grey;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.nueve{
+    background-color: fuchsia;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.diez{
+    background-color: yellow;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.once{
+    background-color: darkorange;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    height: 100vh;
+}
+
