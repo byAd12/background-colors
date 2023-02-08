@@ -11,7 +11,7 @@
     height: 100vh;
 }
 
-.uno{
+.dos{
     background-color: green;
     background-size: cover;
     background-position: center;
@@ -19,16 +19,8 @@
     height: 100vh;
 }
 
-.dos{
-    background-color: yellow;
-    background-size: cover;
-    background-position: center;
-    justify-content: center;
-    height: 100vh;
-}
-
 .tres{
-    background-color: brown;
+    background-color: yellow;
     background-size: cover;
     background-position: center;
     justify-content: center;
@@ -36,7 +28,7 @@
 }
 
 .cuatro{
-    background-color: pink;
+    background-color: brown;
     background-size: cover;
     background-position: center;
     justify-content: center;
@@ -44,7 +36,7 @@
 }
 
 .cinco{
-    background-color: gold;
+    background-color: pink;
     background-size: cover;
     background-position: center;
     justify-content: center;
@@ -52,7 +44,7 @@
 }
 
 .seis{
-    background-color: greenyellow;
+    background-color: gold;
     background-size: cover;
     background-position: center;
     justify-content: center;
@@ -60,7 +52,7 @@
 }
 
 .siete{
-    background-color: saddlebrown;
+    background-color: greenyellow;
     background-size: cover;
     background-position: center;
     justify-content: center;
@@ -68,7 +60,7 @@
 }
 
 .ocho{
-    background-color: grey;
+    background-color: saddlebrown;
     background-size: cover;
     background-position: center;
     justify-content: center;
@@ -76,7 +68,7 @@
 }
 
 .nueve{
-    background-color: fuchsia;
+    background-color: grey;
     background-size: cover;
     background-position: center;
     justify-content: center;
@@ -84,7 +76,7 @@
 }
 
 .diez{
-    background-color: yellow;
+    background-color: fuchsia;
     background-size: cover;
     background-position: center;
     justify-content: center;
